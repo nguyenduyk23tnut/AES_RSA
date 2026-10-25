@@ -1,0 +1,15 @@
+C:\Users\Windows\BaitapAES_WinForms\BAITAP2\obj\Debug\net8.0-windows\BAITAP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\BaitapAES_WinForms\BAITAP2\obj\Debug\net8.0-windows\BAITAP2.AssemblyInfoInputs.cache
+C:\Users\Windows\BaitapAES_WinForms\BAITAP2\obj\Debug\net8.0-windows\BAITAP2.AssemblyInfo.cs
+C:\Users\Windows\BaitapAES_WinForms\BAITAP2\obj\Debug\net8.0-windows\BAITAP2.csproj.CoreCompileInputs.cache
+C:\Users\Windows\BaitapAES_WinForms\BAITAP2\obj\Debug\net8.0-windows\BAITAP2.sourcelink.json
+C:\Users\Windows\BaitapAES_WinForms\BAITAP2\bin\Debug\net8.0-windows\BAITAP2.exe
+C:\Users\Windows\BaitapAES_WinForms\BAITAP2\bin\Debug\net8.0-windows\BAITAP2.deps.json
+C:\Users\Windows\BaitapAES_WinForms\BAITAP2\bin\Debug\net8.0-windows\BAITAP2.runtimeconfig.json
+C:\Users\Windows\BaitapAES_WinForms\BAITAP2\bin\Debug\net8.0-windows\BAITAP2.dll
+C:\Users\Windows\BaitapAES_WinForms\BAITAP2\bin\Debug\net8.0-windows\BAITAP2.pdb
+C:\Users\Windows\BaitapAES_WinForms\BAITAP2\obj\Debug\net8.0-windows\BAITAP2.dll
+C:\Users\Windows\BaitapAES_WinForms\BAITAP2\obj\Debug\net8.0-windows\refint\BAITAP2.dll
+C:\Users\Windows\BaitapAES_WinForms\BAITAP2\obj\Debug\net8.0-windows\BAITAP2.pdb
+C:\Users\Windows\BaitapAES_WinForms\BAITAP2\obj\Debug\net8.0-windows\BAITAP2.genruntimeconfig.cache
+C:\Users\Windows\BaitapAES_WinForms\BAITAP2\obj\Debug\net8.0-windows\ref\BAITAP2.dll

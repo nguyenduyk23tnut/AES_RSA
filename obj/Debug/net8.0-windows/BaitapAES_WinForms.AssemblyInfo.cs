@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BaitapAES_WinForms")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc86a1a36b28b1b4db7cd963e414b9873516c7a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("BaitapAES_WinForms")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BaitapAES_WinForms")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
